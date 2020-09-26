@@ -61,6 +61,8 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+
         </style>
     </head>
     <body>
@@ -80,9 +82,9 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-                    Laravel Prova
-                </div>
+              <div class="title m-b-md">
+                Laravel Prova
+              </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
@@ -96,5 +98,6 @@
                 </div>
             </div>
         </div>
+        
     </body>
 </html>
