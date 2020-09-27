@@ -64,6 +64,7 @@
 
 
         </style>
+
     </head>
     <body>
         <div class="flex-center position-ref full-height">
@@ -81,9 +82,12 @@
                 </div>
             @endif
 
+
+
+
             <div class="content">
               <div class="title m-b-md">
-                Laravel Prova
+                Laravel Prova NEW
               </div>
 
                 <div class="links">
@@ -97,7 +101,8 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
+
+
         </div>
-        
     </body>
 </html>
